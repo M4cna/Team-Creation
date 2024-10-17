@@ -6,7 +6,7 @@ init()
 print("-" * 30)
 kisi = int(input(Fore.GREEN + "How many people: " + Fore.RESET))
 print("-" * 30)
-print(Fore.GREEN + "WELCOME TO THE MINI FOOTBALL TEAM CREATION APPLICATION" + Fore.RESET + Fore.WHITE + " WELCOME" + Fore.RESET)
+print(Fore.GREEN + "WELCOME TO THE TEAM CREATION APPLICATION" + Fore.RESET + Fore.WHITE + " WELCOME" + Fore.RESET)
 secim = (
     Fore.LIGHTCYAN_EX + "1- ADD_PLAYER" + Fore.RESET +
     Fore.LIGHTBLACK_EX + "\n2- VIEW_TEAM" + Fore.RESET +

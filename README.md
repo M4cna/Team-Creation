@@ -2,6 +2,7 @@ Team Creation Application
 Welcome to the Team Creation Application! This Python-based project is designed to help you effortlessly create and manage football teams. Whether you want to randomly select teams, view the players, or shuffle the teams, this application provides all the necessary functionalities.
 
 Features:
+
 1-) Add Player: Easily input and add new players to the pool.
 
 2-) View Team: View the list of players in Team 1 or Team 2.

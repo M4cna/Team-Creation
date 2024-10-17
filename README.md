@@ -12,7 +12,9 @@ Features:
 4-) Shuffle Teams: Shuffle all players and distribute them equally into two teams.
 
 
+
 How It Works:
+
 
 
 1-) Adding Players: Enter the number of players and add their names to the player pool.

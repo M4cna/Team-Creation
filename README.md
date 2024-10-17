@@ -15,7 +15,7 @@ Features:
 
 3-) Random Ball Selection: Randomly choose which team starts with the ball.
 
-4-) Shuffle Teams: Shuffle all players and distribute them equally into two teams.
+4-) Shuffle Teams: Shuffle all players and distribute them equally into two teams. ( Please enter a value that is a multiple of 2 )
 
 
 How It Works:
